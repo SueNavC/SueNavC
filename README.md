@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SueNavC</h1>
+<h1 align="center">Hi 👋, I'm SueNavC   Welcome to my world🦄 </h1>
 <h3 align="center">A passionate Data Scientist | Business Intelligent & Analyst | Digital Expert</h3>
 
 - 🌱 I’m currently learning **Data Science at IT Academy, IBM Cloud Structure, Degree in Computer Engineering and Degree in Applied Data Science at UOC**
