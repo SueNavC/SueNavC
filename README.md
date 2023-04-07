@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **suenavarroc@gmail.com**
 
-- 👀 I’m interested in **AI | ML | Data Science | Business Analytics | Digitization 🚀**
+- 👀 I’m interested in **AI | ML | Data Science | Business Analytics | Big Data | Digitization 🚀**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
