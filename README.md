@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SueNavC</h1>
 <h2 align="center">Welcome to my world🦄 </h2>
-<h3 align="center">A passionate Data Scientist | Business Intelligence Analyst | Digital Expert</h3>
+<h3 align="center">A passionate Data Scientist | BIG DATA Specialist  |  Business Intelligence Analyst | Digital Expert</h3>
 
 - 🌱 I’m currently learning **Data Science at IT Academy, IBM Cloud Structure, Degree in Computer Engineering and Degree in Applied Data Science at UOC**
 
