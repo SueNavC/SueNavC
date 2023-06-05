@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [in construction](in construction)
 
-- 💬 Ask me about **AI, ML, Data Science, Big Data, SQL, Business Analytics, Strategy, Data and Marketing**
+- 💬 Ask me about **AI, ML, Data Science, Big Data, SQL, Data Analytics, Strategy, Data and Marketing**
 
 - 📫 How to reach me **suenavarroc@gmail.com**
 
